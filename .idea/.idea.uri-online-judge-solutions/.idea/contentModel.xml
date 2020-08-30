@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\noboru\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\noboru\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_uri-online-judge-solutions.1496719260.00" t="ExcludeRecursive" />
+    <e p="C:\Users\noboru\AppData\Roaming\JetBrains\Rider2020.2\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\noboru\Projetos\uri-online-judge-solutions" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="uri-online-judge-solutions" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="uri-online-judge-solutions.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Solution1004.cs" t="Include" />
+        <e p="Solution1005.cs" t="Include" />
+        <e p="uri-online-judge-solutions.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="uri-online-judge-solutions.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

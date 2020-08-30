@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1819c05-df46-4b1c-bc45-08f7af7d91a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/uri-online-judge-solutions/Class1.cs" />
+        <option value="$PROJECT_DIR$/uri-online-judge-solutions/Solution1004.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gnYvjgXgrMGjtHmqBliy1isyxJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="C#" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1819c05-df46-4b1c-bc45-08f7af7d91a9" name="Default Changelist" comment="" />
+      <created>1598752070141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598752070141</updated>
+      <workItem from="1598752086974" duration="2840000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598754638564">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="414" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.30.1920.1050/0.30.1920.1050@0.30.1920.1050" timestamp="1598754638564" />
+    <state x="552" y="287" key="Rider.ProjectTemplateDialog.Size" timestamp="1598752661647">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="552" y="287" key="Rider.ProjectTemplateDialog.Size/-1920.30.1920.1050/0.30.1920.1050@0.30.1920.1050" timestamp="1598752661647" />
+  </component>
+</project>

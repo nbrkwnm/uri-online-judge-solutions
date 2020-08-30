@@ -1,0 +1,4 @@
+C:\Users\noboru\Projetos\uri-online-judge-solutions\uri-online-judge-solutions\obj\Debug\netcoreapp3.1\uri-online-judge-solutions.csprojAssemblyReference.cache
+C:\Users\noboru\Projetos\uri-online-judge-solutions\uri-online-judge-solutions\obj\Debug\netcoreapp3.1\uri-online-judge-solutions.AssemblyInfoInputs.cache
+C:\Users\noboru\Projetos\uri-online-judge-solutions\uri-online-judge-solutions\obj\Debug\netcoreapp3.1\uri-online-judge-solutions.AssemblyInfo.cs
+C:\Users\noboru\Projetos\uri-online-judge-solutions\uri-online-judge-solutions\obj\Debug\netcoreapp3.1\uri-online-judge-solutions.csproj.CoreCompileInputs.cache
